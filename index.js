@@ -106,4 +106,4 @@ client.on(Events.InteractionCreate, async (interaction) => {
   }
 });
 
-//startCronJobs(client);
+startCronJobs(client);
